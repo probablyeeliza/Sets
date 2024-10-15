@@ -1,1 +1,2 @@
 # Sets
+All the files used in my java project "Sets". In this project, I was set a task of making a program that could run a lottery for an amount of weeks specified by the user. After the user puts in how manyy weeks they want it to run they have to insert a range for the lottery numbers to go to. After that they can insert their lottery numbers and the lottery will be run the amount of weeks, with each week having 6 unique lottery numbers. After that the total amount of times the user won will be totaled and they will be told if they made money.
